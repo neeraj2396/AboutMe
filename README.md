@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj2396&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj2396" /> </p>
 
@@ -7,7 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/neeraj_456215" target="blank"><img src="https://img.shields.io/twitter/follow/neeraj_456215?logo=twitter&style=for-the-badge" alt="neeraj_456215" /></a> </p>
 
+- 🔭 I’m currently working on [abc](hg)
+
+- 🌱 I’m currently learning **React Js, Node Js etc**
+
+- 👯 I’m looking to collaborate on [hj](hg)
+
+- 👨‍💻 All of my projects are available at [gggh](gggh)
+
+- 📝 I regularly write articles on [hbnb](hbnb)
+
+- 💬 Ask me about **react, python, sql.**
+
 - 📫 How to reach me **neerajengg1320@gmail.com**
+
+- 📄 Know about my experiences [hgh](hgh)
+
+- ⚡ Fun fact **I think I am curoius.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

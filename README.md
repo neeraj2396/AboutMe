@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [hgh](hgh)
 
-- ⚡ Fun fact **I think I am curoius.**
+- ⚡ Fun fact **I think I am curious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

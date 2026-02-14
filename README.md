@@ -108,13 +108,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <div>
-<a style="margin-left: 10px;" href="https://linkedin.com/in/neeraj-kumar-4113a1122" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="50" height="50"/></a>
-
-<a style="margin-left: 10px;" href="https://kaggle.com/neerajkumar108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neerajkumar108" width="50" height="50"/></a>
-
-<a style="margin-left: 10px;" href="https://auth.geeksforgeeks.org/user/neerajengg1320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajengg1320" width="50" height="50"/></a>
-
+<a style="margin-left: 10px;" href="https://linkedin.com/in/neeraj-kumar-4113a1122" target="blank"> <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="linkedin" width="50" height="50"/></a>
+<a style="margin-left: 10px;" href="https://kaggle.com/neerajkumar108" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neerajkumar108" width="50" height="50"/></a>
+<a style="margin-left: 10px;" href="https://auth.geeksforgeeks.org/user/neerajengg1320" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajengg1320" width="50" height="50"/></a>
 </div>
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj2396&show_icons=true&locale=en&layout=compact" alt="neeraj2396" /></p>
 

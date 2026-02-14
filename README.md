@@ -20,6 +20,7 @@
 <a style="margin-left: 10px;" href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras" width="50" height="50"/></a>
 <a style="margin-left: 10px;" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit" width="50" height="50"/></a>
 <a style="margin-left: 10px;" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
+<a style="margin-left: 10px;" href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" width="50" height="50"/></a>
 
 </div>
 <h3 align="left">Data Engineering</h3>
@@ -96,6 +97,7 @@
 <div>
 <a style="margin-left: 10px;" href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" alt="jupyter" width="50" height="50"/></a> 
 <a style="margin-left: 10px;" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="visualstudio" width="50" height="50"/></a> 
+<a style="margin-left: 10px;" href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="anaconda" width="50" height="50"/></a>
 </div>
 
 <h3 align="left">Other</h3>
